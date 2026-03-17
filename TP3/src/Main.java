@@ -1,4 +1,3 @@
-package com.btssio;
 import com.btssio.Animal;
 import com.btssio.Menagerie;
 
