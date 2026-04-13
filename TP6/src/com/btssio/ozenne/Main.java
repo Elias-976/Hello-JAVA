@@ -12,5 +12,5 @@ public static void main(String[] args) throws InterruptedException {
     //user002.sePresenter();
     //System.out.println("");
     //chogi.lancerLeJeu();
-    //Parametres.intParametres(200, 5);
+    Parametres.intParametres(200, 5);
 }}
